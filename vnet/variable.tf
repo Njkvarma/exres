@@ -1,0 +1,11 @@
+variable "vnet_name" {}
+variable "rg_loc" {}
+variable "rg_name" {}
+variable "vnet_address_space" {}
+variable "dns_servers" {}
+variable "subnet1_name" {}
+variable "subnet2_name" {}
+variable "subnet1_address" {}
+variable "subnet2_address" {}
+variable "sg_id" {}
+variable "vnet_tag" {}
